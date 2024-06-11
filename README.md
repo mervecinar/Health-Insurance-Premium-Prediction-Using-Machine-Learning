@@ -34,3 +34,6 @@ Notebooks: Jupyter notebooks detailing the data exploration, preprocessing, mode
 Scripts: Python scripts used for data analysis and model training.
 Documentation: Detailed explanations of each step, model performance metrics, and insights derived from the analysis.
 This repository serves as a comprehensive guide for applying machine learning techniques to predict health insurance premiums, offering valuable insights into the factors affecting these costs and demonstrating practical machine learning applications.
+
+Here is the kaggle link you can acsess dataset and jupyter notebook file in here ;
+https://www.kaggle.com/code/mervecinar/health-insurance-premium-prediction-using-machine
